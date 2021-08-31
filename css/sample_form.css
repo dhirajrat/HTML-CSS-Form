@@ -44,7 +44,7 @@ html, input {
     error-output {
     font-size: 12px;
     font-style: italic;
-    color: red;
+    color: rgb(168, 55, 55);
     }
 
     @media only screen and (max-width: 360p) {
